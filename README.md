@@ -37,10 +37,6 @@ git clone https://github.com/zhonglaoban/ZFSlider
 ### 进度控制
 重写当前view的touches事件，根据手势计算出进度，并更新sliderbar的位置和slider进度view的宽度。
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
 ## Authors
 
 * **zhong fan** - *Initial work* - [zhonglaoban](https://github.com/zhonglaoban)
